@@ -129,7 +129,7 @@ The original MSRC submission referenced a steganographic payload in transparent 
 
 | Date | Event |
 |------|-------|
-| 2026-04-01 | In-the-wild delivery from compromised Vanderbilt University M365 account |
+| 2026-03-31 | In-the-wild delivery from compromised Vanderbilt University M365 account |
 | 2026-04-01 | Vanderbilt IT Security notified (ticket #86705) |
 | 2026-04-08 | MSRC Case 112639 filed. Update 1 with .eml and verification walkthrough same day. |
 | 2026-04-09 | MSRC confirms assessment engineer assigned |

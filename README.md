@@ -1,4 +1,4 @@
-# M365 Cross-Tenant MIME Type-Confusion — Invisible Inline Image Delivery Bypass
+# M365 Cross-Tenant MIME Type-Confusion | Invisible Inline Image Delivery Bypass
 
 > MSRC Case 112639. No exploit code or payloads in this repo.
 
